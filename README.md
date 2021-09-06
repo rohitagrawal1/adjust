@@ -65,7 +65,7 @@ This is an optional flag, by default it uses the sampledata directory in the pro
     FiloSottile/age
 ```
 
-###Notes
+## Notes
 
 1. I did not expect the language to be specified as golang for the solution, My preferred language would have been JAVA, as golang is fairly new to me.
 2. Test coverage is not great because of time constraint.
